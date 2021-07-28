@@ -1,0 +1,19 @@
+Approved by Riley Haffner  
+Languages:  
+10 - React front end  
+10 - Express back end  
+Functionality:  
+10 - Users can register, login, and logout  
+10 - Users can create public and private rooms with arbitrary names  
+10 - Users can direct message other users  
+10 - Users can close and reopen chats, and can tab between open chats  
+5 - Users can join public rooms using arbitrary names  
+5 - Users can add or remove users from their private rooms  
+5 - All users in a chat room are displayed  
+5 - Messages are sent to all other users in a room and are displayed correctly with the sender’s username and time  
+  
+  
+Best practices:  
+3 - Code is readable and well formatted  
+2 - All pages pass the html validator  
+Creative portion 10  
