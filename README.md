@@ -1,4 +1,11 @@
 # CSE330
-REPLACE-THIS-TEXT-WITH-YOUR-NAME-STUDENT-ID-AND-GITHUB-USERNAME
+Jasper Wilson  
+465713
+jaspermwilson
 
-REPLACE-THIS-TEXT-WITH-YOUR-PARTNERS-NAME-STUDENT-ID-AND-GITHUB-USERNAME
+This is a list of all files I worked on/created, the others were automatically created by node when creating a directory:
+-App.js (react front end)  
+-server.js (express back end)  
+-App.css (app styling)
+-servers.json (server storage)  
+-users.json (user storage)
