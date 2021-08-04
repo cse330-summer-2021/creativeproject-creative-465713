@@ -9,3 +9,5 @@ This is a list of all files I worked on/created, the others were automatically c
 -App.css (app styling)  
 -servers.json (server storage)  
 -users.json (user storage)
+
+I have excluded the files that react created upon creating this project since those files were very large. To run this project setup react and replace the src folder with the one in this repo.
